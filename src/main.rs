@@ -5,7 +5,6 @@ const M:u128 = u64::MAX as u128;
 const REPETICOES:u16 = 1000;
 
 fn main() {
-    println!("Hello, world!");
     let mut seed:u128 = 7;
 
     for _ in 0..REPETICOES {
